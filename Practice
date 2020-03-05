@@ -2,4 +2,6 @@
 #include<conio.h>
 Using namespace std;
 Int main() 
-{Cout<.>} 
+{Cout<"hello world";
+return 0;} 
+
